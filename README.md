@@ -29,7 +29,7 @@ python get_toon_data.py
 #### function:  
 webcrawling: webcrawling function  
 linkimg: link the all webcrawling image at same episode  
-cutdetector_rough: cutdect rougly. get speech bubble, big cut detected image  
+cutdetector_rough: cutdetect roughly. get speech bubble, big cut detected image  
 cutdetector: final output cutdetector   
   
   
